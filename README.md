@@ -1,18 +1,16 @@
 <!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Manel!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MSc%20Informatics%20·%20University%20of%20Bremen&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Manel!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MSc%20Informatics%20·%20Hochschule%20of%20Bremen&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=9A6BDF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MSc+Informatics+@+Uni+Bremen;Java+%7C+Python+%7C+React+%7C+Spring+Boot;Open+to+Internships+%26+Working+Student+Roles" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=9A6BDF&center=true&vCenter=true&width=600&lines=MSc+Informatics+%40+Hochschule+Bremen;Building+Intelligent+Systems;Exploring+LLMs+%26+AI+Agents;Open+to+Internships+in+Germany)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-I'm a Master's student in Informatics at the University of Bremen, passionate about building intelligent, scalable software — from full-stack applications to LLM-powered systems. I'm driven by the belief that the most exciting problems sit at the intersection of software engineering and artificial intelligence, and I'm constantly pushing myself to explore both deeper.
+I'm a Master's student in Informatics (M.Sc.) at Hochschule Bremen, City University of Applied Sciences, passionate about building intelligent, scalable software — from full-stack applications to LLM-powered systems. I'm driven by the belief that the most exciting problems sit at the intersection of software engineering and artificial intelligence, and I'm constantly pushing myself to explore both deeper.
 
 ---
 
