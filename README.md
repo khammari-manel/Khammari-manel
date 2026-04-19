@@ -6,17 +6,16 @@
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=9A6BDF&center=true&vCenter=true&width=600&lines=MSc+Informatics+%40+Hochschule+Bremen;Building+Intelligent+Systems;Exploring+LLMs+%26+AI+Agents;Open+to+Internships+in+Germany)](https://git.io/typing-svg)
 
----
 
 ## About Me
 
 I'm a Master's student in Informatics (M.Sc.) at Hochschule Bremen, City University of Applied Sciences, passionate about building intelligent, scalable software — from full-stack applications to LLM-powered systems. I'm driven by the belief that the most exciting problems sit at the intersection of software engineering and artificial intelligence, and I'm constantly pushing myself to explore both deeper.
 
----
 
 ## Currently Working On
 
 Diving into cloud-native architectures, containerised deployments with Docker and Spring Boot, and actively exploring the LLM ecosystem — from prompt engineering to AI agent orchestration.
+
 
 ## Tech Stack
 
