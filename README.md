@@ -18,7 +18,8 @@ I'm a Master's student in Informatics at the University of Bremen, passionate ab
 
 ## Currently Working On
 
-Diving into cloud-native architectures, containerised deployments with Docker and Spring Boot, and actively exploring the LLM ecosystem — from prompt engineering to AI agent orchestration
+Diving into cloud-native architectures, containerised deployments with Docker and Spring Boot, and actively exploring the LLM ecosystem — from prompt engineering to AI agent orchestration.
+
 ---
 
 ## 🛠️ Tech Stack
