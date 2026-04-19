@@ -42,31 +42,6 @@ Deepening expertise in **cloud-native architectures** and **containerised deploy
 | French   | C1 — Professional |
 | English  | B2 — Upper Intermediate |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManelKhammari&show_icons=true&theme=radical&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManelKhammari&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManelKhammari&theme=radical"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManelKhammari/ManelKhammari/dist/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManelKhammari/ManelKhammari/dist/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ManelKhammari/ManelKhammari/dist/github-contribution-grid-snake.svg"/>
-</picture>
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively looking for **working student positions**, **internships**, or **thesis collaboration** in software development or data engineering in Germany.
